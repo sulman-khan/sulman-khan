@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sulman-khan
+- 👨🏽‍💻 Work with Java, Spring, JavaScript
 - 👀 I’m interested in automation, web development, mobile applications, raspberry pi, and robotics
 - 🌱 I’m currently learning VueJS, Python, 
 
